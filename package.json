@@ -1,0 +1,16 @@
+{
+  "name": "dashboard-leads",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "pipeline": "node --env-file=.env ./scripts/run-pipeline.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.15.0",
+    "dotenv": "^17.4.2"
+  }
+}
