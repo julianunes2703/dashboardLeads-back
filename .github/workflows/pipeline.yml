@@ -34,6 +34,15 @@ jobs:
             "expires_at": 0
           }
           EOF
+      - name: Debug tokens
+        env:
+            META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+            META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+        run: |
+            echo "META_ACCESS_TOKEN length: ${#META_ACCESS_TOKEN}"
+            echo "META_PAGE_TOKEN length: ${#META_PAGE_TOKEN}"
+            echo "META_ACCESS_TOKEN starts with: ${META_ACCESS_TOKEN:0:3}"
+            echo "META_PAGE_TOKEN starts with: ${META_PAGE_TOKEN:0:3}"
 
       - name: Rodar pipeline
         env:
