@@ -1,1615 +1,5 @@
 [
   {
-    "id": "1529637048142920",
-    "created_time": "2026-01-24T12:58:00+0000",
-    "ad_id": "120239330854550161",
-    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
-    "adset_id": "120239330848750161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "comercial@pontocertoemb.com",
-    "nome": "José Rogério Jesuatto",
-    "empresa": "Silveira Bueno e Jesuatto Comercial Ltda ME",
-    "segmento": "comércio_em_geral",
-    "faturamento": "500_a_1_milhão_mensais",
-    "telefone": "11991810224",
-    "cargo": "proprietário_com_sócio",
-    "quantidade_de_funcionarios": "11_a_30",
-    "desafio_principal": "gestão_financeira",
-    "fields": {
-      "cargo": "proprietário_com_sócio",
-      "quantidade_de_funcionarios": "11_a_30",
-      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "500_a_1_milhão_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "gestão_financeira",
-      "nome_da_empresa": "Silveira Bueno e Jesuatto Comercial Ltda ME",
-      "full_name": "José Rogério Jesuatto",
-      "work_phone_number": "11991810224",
-      "work_email": "comercial@pontocertoemb.com"
-    },
-    "field_data_raw": [
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_com_sócio"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "11_a_30"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "comércio_em_geral"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "500_a_1_milhão_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "gestão_financeira"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Silveira Bueno e Jesuatto Comercial Ltda ME"
-        ]
-      },
-      {
-        "name": "full_name",
-        "values": [
-          "José Rogério Jesuatto"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "11991810224"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "comercial@pontocertoemb.com"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1189785536203070",
-    "created_time": "2026-01-24T13:15:14+0000",
-    "ad_id": "120239331362220161",
-    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE]",
-    "adset_id": "120239331362230161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE GERENCIAL 2026] [WHITE]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "preocupado_cinza_0c@icloud.com",
-    "nome": "Cleverson Rosa",
-    "empresa": "C2 Energia Solar",
-    "segmento": "energia_/_internet",
-    "faturamento": "1_a_2_milhões_mensais",
-    "telefone": "+5596991522543",
-    "cargo": "proprietário_sem_sócio",
-    "quantidade_de_funcionarios": "31_a_50",
-    "desafio_principal": "crescimento_planejado",
-    "fields": {
-      "full_name": "Cleverson Rosa",
-      "work_phone_number": "+5596991522543",
-      "work_email": "preocupado_cinza_0c@icloud.com",
-      "cargo": "proprietário_sem_sócio",
-      "quantidade_de_funcionarios": "31_a_50",
-      "qual_o_segmento_da_sua_empresa": "energia_/_internet",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "1_a_2_milhões_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
-      "nome_da_empresa": "C2 Energia Solar"
-    },
-    "field_data_raw": [
-      {
-        "name": "full_name",
-        "values": [
-          "Cleverson Rosa"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "+5596991522543"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "preocupado_cinza_0c@icloud.com"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_sem_sócio"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "31_a_50"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "energia_/_internet"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "1_a_2_milhões_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "crescimento_planejado"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "C2 Energia Solar"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1244933377505088",
-    "created_time": "2026-01-24T15:48:07+0000",
-    "ad_id": "120240205719430161",
-    "ad_name": "[C2] [ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [DARK]",
-    "adset_id": "120240205719540161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [DARK]",
-    "campaign_id": "120240205719280161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [TESTES]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "andre@jalbuquerque.com.br",
-    "nome": "André Prates",
-    "empresa": "Acprates Soluções em construções e reformas",
-    "segmento": "engenharia_e_construção",
-    "faturamento": "até_50k_mensais",
-    "telefone": "11975087712",
-    "cargo": "proprietário_sem_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": "padronização_de_processos",
-    "fields": {
-      "full_name": "André Prates",
-      "work_phone_number": "11975087712",
-      "work_email": "andre@jalbuquerque.com.br",
-      "cargo": "proprietário_sem_sócio",
-      "quantidade_de_funcionarios": "01_a_10",
-      "qual_o_segmento_da_sua_empresa": "engenharia_e_construção",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "padronização_de_processos",
-      "nome_da_empresa": "Acprates Soluções em construções e reformas"
-    },
-    "field_data_raw": [
-      {
-        "name": "full_name",
-        "values": [
-          "André Prates"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "11975087712"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "andre@jalbuquerque.com.br"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_sem_sócio"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "engenharia_e_construção"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "até_50k_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "padronização_de_processos"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Acprates Soluções em construções e reformas"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1933834414184559",
-    "created_time": "2026-01-24T16:37:51+0000",
-    "ad_id": "120239331244470161",
-    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [DARK]",
-    "adset_id": "120239331244460161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [DARK]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "ragadrian@hotmail.com",
-    "nome": "Renato Gonçalves",
-    "empresa": "Poupa Grana",
-    "segmento": "comércio_em_geral",
-    "faturamento": "até_50k_mensais",
-    "telefone": "+553591602414",
-    "cargo": "proprietário_sem_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": "governança_e_controle",
-    "fields": {
-      "quantidade_de_funcionarios": "01_a_10",
-      "work_email": "ragadrian@hotmail.com",
-      "full_name": "Renato Gonçalves",
-      "quail_o_principal_desafio_da_sua_empresa": "governança_e_controle",
-      "work_phone_number": "+553591602414",
-      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
-      "cargo": "proprietário_sem_sócio",
-      "nome_da_empresa": "Poupa Grana"
-    },
-    "field_data_raw": [
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "ragadrian@hotmail.com"
-        ]
-      },
-      {
-        "name": "full_name",
-        "values": [
-          "Renato Gonçalves"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "governança_e_controle"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "+553591602414"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "comércio_em_geral"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "até_50k_mensais"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_sem_sócio"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Poupa Grana"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1221056139427748",
-    "created_time": "2026-01-24T17:16:43+0000",
-    "ad_id": "120237835736050161",
-    "ad_name": "01 - AD06 [ESTATICO] [FEED] - Estruturamos seu Comercial",
-    "adset_id": "120237835736020161",
-    "adset_name": "01 - [ADVON] [INT] Sug. Empresários - Brasil",
-    "campaign_id": "120236853938540161",
-    "campaign_name": "[BLUMKT] [LEADS] [FORM NATIVO] Leads BlueMKT",
-    "form_id": "1608123067298235",
-    "form_name": "[BLUEMKT][RD] [11.25] FORM - Lead Marketing",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "kayky.murari@fenixse.com.br",
-    "nome": "Kayky Murari",
-    "empresa": "Fenix sistema de energia",
-    "segmento": "engenharia_e_construção",
-    "faturamento": "50_a_100k_mensais",
-    "telefone": "44991318905",
-    "cargo": "diretor_/_gerente",
-    "quantidade_de_funcionarios": "11_a_30",
-    "desafio_principal": null,
-    "fields": {
-      "full_name": "Kayky Murari",
-      "work_phone_number": "44991318905",
-      "work_email": "kayky.murari@fenixse.com.br",
-      "quantidade_de_funcionarios": "11_a_30",
-      "cargo": "diretor_/_gerente",
-      "qual_o_segmento_da_sua_empresa": "engenharia_e_construção",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "50_a_100k_mensais",
-      "nome_da_empresa": "Fenix sistema de energia"
-    },
-    "field_data_raw": [
-      {
-        "name": "full_name",
-        "values": [
-          "Kayky Murari"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "44991318905"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "kayky.murari@fenixse.com.br"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "11_a_30"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "diretor_/_gerente"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "engenharia_e_construção"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "50_a_100k_mensais"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Fenix sistema de energia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1199816902237899",
-    "created_time": "2026-01-24T18:41:45+0000",
-    "ad_id": "120233691682430161",
-    "ad_name": "[ESTATICO] [FEED] [DRE, DASH E CONSULTORIA]  [BLACK]",
-    "adset_id": "120233379948830161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE ESTATICO BLACK]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "Brunoantunes91@hotmail.com",
-    "nome": "Bruno Antunes",
-    "empresa": "Car planet centro automotivo",
-    "segmento": "serviços_em_geral",
-    "faturamento": "50_a_100k_mensais",
-    "telefone": "11953946966",
-    "cargo": "proprietário_sem_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": "gestão_financeira",
-    "fields": {
-      "full_name": "Bruno Antunes",
-      "work_phone_number": "11953946966",
-      "work_email": "Brunoantunes91@hotmail.com",
-      "cargo": "proprietário_sem_sócio",
-      "quantidade_de_funcionarios": "01_a_10",
-      "qual_o_segmento_da_sua_empresa": "serviços_em_geral",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "50_a_100k_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "gestão_financeira",
-      "nome_da_empresa": "Car planet centro automotivo"
-    },
-    "field_data_raw": [
-      {
-        "name": "full_name",
-        "values": [
-          "Bruno Antunes"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "11953946966"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "Brunoantunes91@hotmail.com"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_sem_sócio"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "serviços_em_geral"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "50_a_100k_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "gestão_financeira"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Car planet centro automotivo"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1208953861306291",
-    "created_time": "2026-01-24T18:54:06+0000",
-    "ad_id": "120239331362220161",
-    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE]",
-    "adset_id": "120239331362230161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE GERENCIAL 2026] [WHITE]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "Lsantana@gifconsulting.com",
-    "nome": "Leonardo Lopez de Santana",
-    "empresa": "Léo",
-    "segmento": "serviços_em_geral",
-    "faturamento": "500_a_1_milhão_mensais",
-    "telefone": "(11) 91475-1508",
-    "cargo": "coordenador_/_supervisor_",
-    "quantidade_de_funcionarios": "1_a_3_",
-    "desafio_principal": "crescimento_planejado",
-    "fields": {
-      "full_name": "Leonardo Lopez de Santana",
-      "work_phone_number": "(11) 91475-1508",
-      "work_email": "Lsantana@gifconsulting.com",
-      "cargo": "coordenador_/_supervisor_",
-      "quantidade_de_funcionarios": "1_a_3_",
-      "qual_o_segmento_da_sua_empresa": "serviços_em_geral",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "500_a_1_milhão_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
-      "nome_da_empresa": "Léo"
-    },
-    "field_data_raw": [
-      {
-        "name": "full_name",
-        "values": [
-          "Leonardo Lopez de Santana"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "(11) 91475-1508"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "Lsantana@gifconsulting.com"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "coordenador_/_supervisor_"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "1_a_3_"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "serviços_em_geral"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "500_a_1_milhão_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "crescimento_planejado"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Léo"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1409386800689715",
-    "created_time": "2026-01-24T19:32:59+0000",
-    "ad_id": "120233691682430161",
-    "ad_name": "[ESTATICO] [FEED] [DRE, DASH E CONSULTORIA]  [BLACK]",
-    "adset_id": "120233379948830161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE ESTATICO BLACK]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "reiscontabil483@gmail.com",
-    "nome": "Aparecida Pereira dos Reis",
-    "empresa": "Reis contabilidade",
-    "segmento": "serviços_em_geral",
-    "faturamento": "até_50k_mensais",
-    "telefone": "24988519972",
-    "cargo": "proprietário_sem_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": "atualização_tecnológica",
-    "fields": {
-      "cargo": "proprietário_sem_sócio",
-      "quantidade_de_funcionarios": "01_a_10",
-      "qual_o_segmento_da_sua_empresa": "serviços_em_geral",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "atualização_tecnológica",
-      "nome_da_empresa": "Reis contabilidade",
-      "full_name": "Aparecida Pereira dos Reis",
-      "work_phone_number": "24988519972",
-      "work_email": "reiscontabil483@gmail.com"
-    },
-    "field_data_raw": [
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_sem_sócio"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "serviços_em_geral"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "até_50k_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "atualização_tecnológica"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Reis contabilidade"
-        ]
-      },
-      {
-        "name": "full_name",
-        "values": [
-          "Aparecida Pereira dos Reis"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "24988519972"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "reiscontabil483@gmail.com"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1797639357867633",
-    "created_time": "2026-01-24T21:17:04+0000",
-    "ad_id": "120239330854550161",
-    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
-    "adset_id": "120239330848750161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "rodrigofrade50@hotmail.com",
-    "nome": "Rodrigo Frade",
-    "empresa": "Frade comercio",
-    "segmento": "comércio_em_geral",
-    "faturamento": "50_a_100k_mensais",
-    "telefone": "+5519999032046",
-    "cargo": "proprietário_sem_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": "crescimento_planejado",
-    "fields": {
-      "nome_da_empresa": "Frade comercio",
-      "cargo": "proprietário_sem_sócio",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "50_a_100k_mensais",
-      "work_phone_number": "+5519999032046",
-      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
-      "full_name": "Rodrigo Frade",
-      "quantidade_de_funcionarios": "01_a_10",
-      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
-      "work_email": "rodrigofrade50@hotmail.com"
-    },
-    "field_data_raw": [
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Frade comercio"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_sem_sócio"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "50_a_100k_mensais"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "+5519999032046"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "crescimento_planejado"
-        ]
-      },
-      {
-        "name": "full_name",
-        "values": [
-          "Rodrigo Frade"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "comércio_em_geral"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "rodrigofrade50@hotmail.com"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1276081874339531",
-    "created_time": "2026-01-24T22:14:22+0000",
-    "ad_id": "120237835736050161",
-    "ad_name": "01 - AD06 [ESTATICO] [FEED] - Estruturamos seu Comercial",
-    "adset_id": "120237835736020161",
-    "adset_name": "01 - [ADVON] [INT] Sug. Empresários - Brasil",
-    "campaign_id": "120236853938540161",
-    "campaign_name": "[BLUMKT] [LEADS] [FORM NATIVO] Leads BlueMKT",
-    "form_id": "1608123067298235",
-    "form_name": "[BLUEMKT][RD] [11.25] FORM - Lead Marketing",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "jacknogueira2026@gmail.com",
-    "nome": "Jack Nogueira",
-    "empresa": "Planeta Terra Tur",
-    "segmento": "turismo_e_entretenimento",
-    "faturamento": "até_50k_mensais",
-    "telefone": "1156141516",
-    "cargo": "proprietário_com_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": null,
-    "fields": {
-      "full_name": "Jack Nogueira",
-      "work_phone_number": "1156141516",
-      "work_email": "jacknogueira2026@gmail.com",
-      "quantidade_de_funcionarios": "01_a_10",
-      "cargo": "proprietário_com_sócio",
-      "qual_o_segmento_da_sua_empresa": "turismo_e_entretenimento",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
-      "nome_da_empresa": "Planeta Terra Tur"
-    },
-    "field_data_raw": [
-      {
-        "name": "full_name",
-        "values": [
-          "Jack Nogueira"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "1156141516"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "jacknogueira2026@gmail.com"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_com_sócio"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "turismo_e_entretenimento"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "até_50k_mensais"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Planeta Terra Tur"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1637517484085928",
-    "created_time": "2026-01-24T22:32:07+0000",
-    "ad_id": "120237835736050161",
-    "ad_name": "01 - AD06 [ESTATICO] [FEED] - Estruturamos seu Comercial",
-    "adset_id": "120237835736020161",
-    "adset_name": "01 - [ADVON] [INT] Sug. Empresários - Brasil",
-    "campaign_id": "120236853938540161",
-    "campaign_name": "[BLUMKT] [LEADS] [FORM NATIVO] Leads BlueMKT",
-    "form_id": "1608123067298235",
-    "form_name": "[BLUEMKT][RD] [11.25] FORM - Lead Marketing",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "consultoria@leandrodejesus.com.br",
-    "nome": "Prof. Leandro de Jesus | Administrador e Palestrante",
-    "empresa": "Top 10",
-    "segmento": "saúde_e_estética",
-    "faturamento": "50_a_100k_mensais",
-    "telefone": "+556992242552",
-    "cargo": "proprietário_com_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": null,
-    "fields": {
-      "full_name": "Prof. Leandro de Jesus | Administrador e Palestrante",
-      "work_phone_number": "+556992242552",
-      "work_email": "consultoria@leandrodejesus.com.br",
-      "quantidade_de_funcionarios": "01_a_10",
-      "cargo": "proprietário_com_sócio",
-      "qual_o_segmento_da_sua_empresa": "saúde_e_estética",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "50_a_100k_mensais",
-      "nome_da_empresa": "Top 10"
-    },
-    "field_data_raw": [
-      {
-        "name": "full_name",
-        "values": [
-          "Prof. Leandro de Jesus | Administrador e Palestrante"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "+556992242552"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "consultoria@leandrodejesus.com.br"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_com_sócio"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "saúde_e_estética"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "50_a_100k_mensais"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Top 10"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2268498743557135",
-    "created_time": "2026-01-25T10:41:26+0000",
-    "ad_id": "120237835736050161",
-    "ad_name": "01 - AD06 [ESTATICO] [FEED] - Estruturamos seu Comercial",
-    "adset_id": "120237835736020161",
-    "adset_name": "01 - [ADVON] [INT] Sug. Empresários - Brasil",
-    "campaign_id": "120236853938540161",
-    "campaign_name": "[BLUMKT] [LEADS] [FORM NATIVO] Leads BlueMKT",
-    "form_id": "1608123067298235",
-    "form_name": "[BLUEMKT][RD] [11.25] FORM - Lead Marketing",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "Lucianammll@hotmail.com",
-    "nome": "Luciana Mayer Mautoni Lincon",
-    "empresa": "Viva la Vida Boutique Ltda",
-    "segmento": "comércio_em_geral",
-    "faturamento": "50_a_100k_mensais",
-    "telefone": "+5518996658494",
-    "cargo": "proprietário_com_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": null,
-    "fields": {
-      "full_name": "Luciana Mayer Mautoni Lincon",
-      "work_phone_number": "+5518996658494",
-      "work_email": "Lucianammll@hotmail.com",
-      "cargo": "proprietário_com_sócio",
-      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
-      "quantidade_de_funcionarios": "01_a_10",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "50_a_100k_mensais",
-      "nome_da_empresa": "Viva la Vida Boutique Ltda"
-    },
-    "field_data_raw": [
-      {
-        "name": "full_name",
-        "values": [
-          "Luciana Mayer Mautoni Lincon"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "+5518996658494"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "Lucianammll@hotmail.com"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_com_sócio"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "comércio_em_geral"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "50_a_100k_mensais"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Viva la Vida Boutique Ltda"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "872043308973012",
-    "created_time": "2026-01-25T14:56:07+0000",
-    "ad_id": "120239330854550161",
-    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
-    "adset_id": "120239330848750161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "cidribeiro09@gmail.com",
-    "nome": "Cid ribeiro",
-    "empresa": "RRAUTOPECAS",
-    "segmento": "comércio_em_geral",
-    "faturamento": "até_50k_mensais",
-    "telefone": "+5521985853999",
-    "cargo": "proprietário_com_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": "gestão_financeira",
-    "fields": {
-      "quantidade_de_funcionarios": "01_a_10",
-      "work_email": "cidribeiro09@gmail.com",
-      "full_name": "Cid ribeiro",
-      "quail_o_principal_desafio_da_sua_empresa": "gestão_financeira",
-      "work_phone_number": "+5521985853999",
-      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
-      "cargo": "proprietário_com_sócio",
-      "nome_da_empresa": "RRAUTOPECAS"
-    },
-    "field_data_raw": [
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "cidribeiro09@gmail.com"
-        ]
-      },
-      {
-        "name": "full_name",
-        "values": [
-          "Cid ribeiro"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "gestão_financeira"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "+5521985853999"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "comércio_em_geral"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "até_50k_mensais"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_com_sócio"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "RRAUTOPECAS"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1512571063169124",
-    "created_time": "2026-01-25T16:10:12+0000",
-    "ad_id": "120236465948640161",
-    "ad_name": "[ESTATICO] [FEED] [DRE 10 DIAS + DASHBOARD]",
-    "adset_id": "120235724932810161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE 10 DIAS]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "1845697656055404",
-    "form_name": "[RD] FORM DRE 10 DIAS",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "marcelo@diethouse.com.br",
-    "nome": "Marcelo Junqueira Franco",
-    "empresa": "Diet House",
-    "segmento": "indústria",
-    "faturamento": "200_a_500k_mensais",
-    "telefone": "(11) 99122-0158",
-    "cargo": "proprietário_com_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": "aumento_de_produtividade",
-    "fields": {
-      "full_name": "Marcelo Junqueira Franco",
-      "work_phone_number": "(11) 99122-0158",
-      "work_email": "marcelo@diethouse.com.br",
-      "cargo": "proprietário_com_sócio",
-      "quantidade_de_funcionarios": "01_a_10",
-      "qual_o_segmento_da_sua_empresa": "indústria",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "200_a_500k_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "aumento_de_produtividade",
-      "nome_da_empresa": "Diet House"
-    },
-    "field_data_raw": [
-      {
-        "name": "full_name",
-        "values": [
-          "Marcelo Junqueira Franco"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "(11) 99122-0158"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "marcelo@diethouse.com.br"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_com_sócio"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "indústria"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "200_a_500k_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "aumento_de_produtividade"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Diet House"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1556076602319934",
-    "created_time": "2026-01-25T17:48:07+0000",
-    "ad_id": "120233691596930161",
-    "ad_name": "[ESTATICO] [FEED] [DRE, DASH E CONSULTORIA]  [WHITE]",
-    "adset_id": "120233340701940161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE ESTATICO WHITE]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "larissacamposlala1402@gmail.com",
-    "nome": "Larissa Campos",
-    "empresa": "materiais de construção",
-    "segmento": "atacado_e_distribuição",
-    "faturamento": "até_50k_mensais",
-    "telefone": "38998496320",
-    "cargo": "diretor_/_gerente",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": "redução_de_custos",
-    "fields": {
-      "quantidade_de_funcionarios": "01_a_10",
-      "cargo": "diretor_/_gerente",
-      "qual_o_segmento_da_sua_empresa": "atacado_e_distribuição",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "redução_de_custos",
-      "nome_da_empresa": "materiais de construção",
-      "full_name": "Larissa Campos",
-      "work_phone_number": "38998496320",
-      "work_email": "larissacamposlala1402@gmail.com"
-    },
-    "field_data_raw": [
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "diretor_/_gerente"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "atacado_e_distribuição"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "até_50k_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "redução_de_custos"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "materiais de construção"
-        ]
-      },
-      {
-        "name": "full_name",
-        "values": [
-          "Larissa Campos"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "38998496320"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "larissacamposlala1402@gmail.com"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "3292559460926877",
-    "created_time": "2026-01-25T19:24:20+0000",
-    "ad_id": "120239330854550161",
-    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
-    "adset_id": "120239330848750161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "Adserafimconsultorfinanceiro@gmail.com",
-    "nome": "Ademir Serafim",
-    "empresa": "Adserafim consultor financeiro",
-    "segmento": "indústria",
-    "faturamento": "até_50k_mensais",
-    "telefone": "+5512996713151",
-    "cargo": "_ceo_/_dono(a)_/_sócio(a)",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": "gestão_financeira",
-    "fields": {
-      "full_name": "Ademir Serafim",
-      "work_phone_number": "+5512996713151",
-      "work_email": "Adserafimconsultorfinanceiro@gmail.com",
-      "cargo": "_ceo_/_dono(a)_/_sócio(a)",
-      "quantidade_de_funcionarios": "01_a_10",
-      "qual_o_segmento_da_sua_empresa": "indústria",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "gestão_financeira",
-      "nome_da_empresa": "Adserafim consultor financeiro"
-    },
-    "field_data_raw": [
-      {
-        "name": "full_name",
-        "values": [
-          "Ademir Serafim"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "+5512996713151"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "Adserafimconsultorfinanceiro@gmail.com"
-        ]
-      },
-      {
-        "name": "cargo",
-        "values": [
-          "_ceo_/_dono(a)_/_sócio(a)"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "indústria"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "até_50k_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "gestão_financeira"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Adserafim consultor financeiro"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1526573208443891",
-    "created_time": "2026-01-25T19:51:59+0000",
-    "ad_id": "120239331244470161",
-    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [DARK]",
-    "adset_id": "120239331244460161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [DARK]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "financeiroricotelecom@cdc.com",
-    "nome": "Francisco Oliveira",
-    "empresa": "C7",
-    "segmento": "comércio_em_geral",
-    "faturamento": "100_a_200k_mensais",
-    "telefone": "+5585976028777",
-    "cargo": "diretor_/_gerente",
-    "quantidade_de_funcionarios": "51_a_100",
-    "desafio_principal": "gestão_financeira",
-    "fields": {
-      "cargo": "diretor_/_gerente",
-      "quantidade_de_funcionarios": "51_a_100",
-      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "100_a_200k_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "gestão_financeira",
-      "nome_da_empresa": "C7",
-      "full_name": "Francisco Oliveira",
-      "work_phone_number": "+5585976028777",
-      "work_email": "financeiroricotelecom@cdc.com"
-    },
-    "field_data_raw": [
-      {
-        "name": "cargo",
-        "values": [
-          "diretor_/_gerente"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "51_a_100"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "comércio_em_geral"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "100_a_200k_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "gestão_financeira"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "C7"
-        ]
-      },
-      {
-        "name": "full_name",
-        "values": [
-          "Francisco Oliveira"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "+5585976028777"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "financeiroricotelecom@cdc.com"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1883629839182253",
-    "created_time": "2026-01-25T20:04:20+0000",
-    "ad_id": "120239331338920161",
-    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [DARK]",
-    "adset_id": "120239331338910161",
-    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE GERENCIAL 2026] [DARK]",
-    "campaign_id": "120211103107060161",
-    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
-    "form_id": "24445475068486152",
-    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
-    "platform": "Meta Ads",
-    "is_organic": false,
-    "lead_status": "novo",
-    "email": "jpgeribello@gmail.com",
-    "nome": "Joao Geribello",
-    "empresa": "Ponto",
-    "segmento": "atacado_e_distribuição",
-    "faturamento": "até_50k_mensais",
-    "telefone": "11945990190",
-    "cargo": "proprietário_sem_sócio",
-    "quantidade_de_funcionarios": "01_a_10",
-    "desafio_principal": "crescimento_planejado",
-    "fields": {
-      "cargo": "proprietário_sem_sócio",
-      "quantidade_de_funcionarios": "01_a_10",
-      "qual_o_segmento_da_sua_empresa": "atacado_e_distribuição",
-      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
-      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
-      "nome_da_empresa": "Ponto",
-      "full_name": "Joao Geribello",
-      "work_phone_number": "11945990190",
-      "work_email": "jpgeribello@gmail.com"
-    },
-    "field_data_raw": [
-      {
-        "name": "cargo",
-        "values": [
-          "proprietário_sem_sócio"
-        ]
-      },
-      {
-        "name": "quantidade_de_funcionários",
-        "values": [
-          "01_a_10"
-        ]
-      },
-      {
-        "name": "qual_o_segmento_da_sua_empresa?",
-        "values": [
-          "atacado_e_distribuição"
-        ]
-      },
-      {
-        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
-        "values": [
-          "até_50k_mensais"
-        ]
-      },
-      {
-        "name": "quail_o_principal_desafio_da_sua_empresa?",
-        "values": [
-          "crescimento_planejado"
-        ]
-      },
-      {
-        "name": "nome_da_empresa",
-        "values": [
-          "Ponto"
-        ]
-      },
-      {
-        "name": "full_name",
-        "values": [
-          "Joao Geribello"
-        ]
-      },
-      {
-        "name": "work_phone_number",
-        "values": [
-          "11945990190"
-        ]
-      },
-      {
-        "name": "work_email",
-        "values": [
-          "jpgeribello@gmail.com"
-        ]
-      }
-    ]
-  },
-  {
     "id": "919286700779304",
     "created_time": "2026-01-25T21:46:45+0000",
     "ad_id": "120239331244470161",
@@ -106843,6 +105233,2183 @@
         "name": "nome_da_empresa",
         "values": [
           "Rikkoburger"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "946444748241383",
+    "created_time": "2026-04-24T14:07:47+0000",
+    "ad_id": "120242373572640161",
+    "ad_name": "[C2] [ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE]",
+    "adset_id": "120242373572630161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE GERENCIAL 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "fernandohclima@gmail.com",
+    "nome": "Fernando Henrique lima",
+    "empresa": "Attentio",
+    "segmento": "comércio_em_geral",
+    "faturamento": "50_a_100k_mensais",
+    "telefone": "62984320643",
+    "cargo": "_ceo_/_dono(a)_/_sócio(a)",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "crescimento_planejado",
+    "fields": {
+      "full_name": "Fernando Henrique lima",
+      "work_phone_number": "62984320643",
+      "work_email": "fernandohclima@gmail.com",
+      "quantidade_de_funcionarios": "01_a_10",
+      "cargo": "_ceo_/_dono(a)_/_sócio(a)",
+      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "50_a_100k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
+      "nome_da_empresa": "Attentio"
+    },
+    "field_data_raw": [
+      {
+        "name": "full_name",
+        "values": [
+          "Fernando Henrique lima"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "62984320643"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "fernandohclima@gmail.com"
+        ]
+      },
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "_ceo_/_dono(a)_/_sócio(a)"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "comércio_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "50_a_100k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "crescimento_planejado"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Attentio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "961443406389004",
+    "created_time": "2026-04-24T15:53:34+0000",
+    "ad_id": "120244316895410161",
+    "ad_name": "[ESCALA] [ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE]",
+    "adset_id": "120244316895420161",
+    "adset_name": "[ESCALA] [LKL + INTERESSES] [DRE GERENCIAL 2026] [WHITE]",
+    "campaign_id": "120244316895400161",
+    "campaign_name": "[ESCALA BRASIL] [CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "flordocampo.adm2026@gmail.com",
+    "nome": "Francisco Pereira Ramos",
+    "empresa": "Flor do Campo",
+    "segmento": "atacado_e_distribuição",
+    "faturamento": "50_a_100k_mensais",
+    "telefone": "62998136608",
+    "cargo": "proprietário_sem_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "gestão_financeira",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "cargo": "proprietário_sem_sócio",
+      "qual_o_segmento_da_sua_empresa": "atacado_e_distribuição",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "50_a_100k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "gestão_financeira",
+      "nome_da_empresa": "Flor do Campo",
+      "full_name": "Francisco Pereira Ramos",
+      "work_phone_number": "62998136608",
+      "work_email": "flordocampo.adm2026@gmail.com"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_sem_sócio"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "atacado_e_distribuição"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "50_a_100k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "gestão_financeira"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Flor do Campo"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Francisco Pereira Ramos"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "62998136608"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "flordocampo.adm2026@gmail.com"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "970604875341049",
+    "created_time": "2026-04-24T16:01:35+0000",
+    "ad_id": "120242373572640161",
+    "ad_name": "[C2] [ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE]",
+    "adset_id": "120242373572630161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE GERENCIAL 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "frota@transcouto.net.br",
+    "nome": "Maxwell Farias",
+    "empresa": "Transcouto",
+    "segmento": "logística",
+    "faturamento": "1_a_2_milhões_mensais",
+    "telefone": "22992695659",
+    "cargo": "diretor_/_gerente",
+    "quantidade_de_funcionarios": "1_a_3_",
+    "desafio_principal": "gestão_de_pessoas",
+    "fields": {
+      "full_name": "Maxwell Farias",
+      "work_phone_number": "22992695659",
+      "work_email": "frota@transcouto.net.br",
+      "quantidade_de_funcionarios": "1_a_3_",
+      "cargo": "diretor_/_gerente",
+      "qual_o_segmento_da_sua_empresa": "logística",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "1_a_2_milhões_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "gestão_de_pessoas",
+      "nome_da_empresa": "Transcouto"
+    },
+    "field_data_raw": [
+      {
+        "name": "full_name",
+        "values": [
+          "Maxwell Farias"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "22992695659"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "frota@transcouto.net.br"
+        ]
+      },
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "1_a_3_"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "diretor_/_gerente"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "logística"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "1_a_2_milhões_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "gestão_de_pessoas"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Transcouto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "926450130152494",
+    "created_time": "2026-04-24T16:10:21+0000",
+    "ad_id": "120239330854550161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120239330848750161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "p.rochelvisual@hotmail.com",
+    "nome": "Paulo Santos",
+    "empresa": "Rochelvisual",
+    "segmento": "comércio_em_geral",
+    "faturamento": "até_50k_mensais",
+    "telefone": "+5511947595790",
+    "cargo": "proprietário_sem_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "redução_de_custos",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "work_email": "p.rochelvisual@hotmail.com",
+      "full_name": "Paulo Santos",
+      "quail_o_principal_desafio_da_sua_empresa": "redução_de_custos",
+      "work_phone_number": "+5511947595790",
+      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
+      "cargo": "proprietário_sem_sócio",
+      "nome_da_empresa": "Rochelvisual"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "p.rochelvisual@hotmail.com"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Paulo Santos"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "redução_de_custos"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "+5511947595790"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "comércio_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "até_50k_mensais"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_sem_sócio"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Rochelvisual"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "982156748104827",
+    "created_time": "2026-04-24T18:14:17+0000",
+    "ad_id": "120243992851470161",
+    "ad_name": "Teste - 00 - AD04 - Agência de MKT - Logo CB",
+    "adset_id": "120243991122010161",
+    "adset_name": "00 - [ADVON] [INT] Empresários + LKL - Teste Andrômeda",
+    "campaign_id": "120243991122030161",
+    "campaign_name": "[MKT] [LEADS] [FORM NATIVO] Conversão Logo CB",
+    "form_id": "1608123067298235",
+    "form_name": "[BLUEMKT][RD] [11.25] FORM - Lead Marketing",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "joelkohitoheaweiyanomami@gmail.com",
+    "nome": "Joel Kohito",
+    "empresa": "Joel kohito heawei yanomami",
+    "segmento": "comércio_em_geral",
+    "faturamento": "200_a_500k_mensais",
+    "telefone": "+559784297003",
+    "cargo": "diretor_/_gerente",
+    "quantidade_de_funcionarios": "11_a_30",
+    "desafio_principal": null,
+    "fields": {
+      "quantidade_de_funcionarios": "11_a_30",
+      "work_email": "joelkohitoheaweiyanomami@gmail.com",
+      "full_name": "Joel Kohito",
+      "work_phone_number": "+559784297003",
+      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "200_a_500k_mensais",
+      "cargo": "diretor_/_gerente",
+      "nome_da_empresa": "Joel kohito heawei yanomami"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "11_a_30"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "joelkohitoheaweiyanomami@gmail.com"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Joel Kohito"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "+559784297003"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "comércio_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "200_a_500k_mensais"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "diretor_/_gerente"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Joel kohito heawei yanomami"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "958800436696203",
+    "created_time": "2026-04-24T20:13:28+0000",
+    "ad_id": "120239330854550161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120239330848750161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "clebiacruz540@gmail.com",
+    "nome": "Mercado Jolle",
+    "empresa": "Jolle",
+    "segmento": "comércio_em_geral",
+    "faturamento": "50_a_100k_mensais",
+    "telefone": "42998516611",
+    "cargo": "proprietário_sem_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "crescimento_planejado",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "cargo": "proprietário_sem_sócio",
+      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "50_a_100k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
+      "nome_da_empresa": "Jolle",
+      "full_name": "Mercado Jolle",
+      "work_phone_number": "42998516611",
+      "work_email": "clebiacruz540@gmail.com"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_sem_sócio"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "comércio_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "50_a_100k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "crescimento_planejado"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Jolle"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Mercado Jolle"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "42998516611"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "clebiacruz540@gmail.com"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "951890430539719",
+    "created_time": "2026-04-24T21:22:32+0000",
+    "ad_id": "120239330854550161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120239330848750161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "wagner@grupocdi.com.br",
+    "nome": "Wagner",
+    "empresa": "Grupo CDI",
+    "segmento": "engenharia_e_construção",
+    "faturamento": "até_50k_mensais",
+    "telefone": "31984661000",
+    "cargo": "proprietário_com_sócio",
+    "quantidade_de_funcionarios": "11_a_30",
+    "desafio_principal": "governança_e_controle",
+    "fields": {
+      "full_name": "Wagner",
+      "work_phone_number": "31984661000",
+      "work_email": "wagner@grupocdi.com.br",
+      "quantidade_de_funcionarios": "11_a_30",
+      "cargo": "proprietário_com_sócio",
+      "qual_o_segmento_da_sua_empresa": "engenharia_e_construção",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "governança_e_controle",
+      "nome_da_empresa": "Grupo CDI"
+    },
+    "field_data_raw": [
+      {
+        "name": "full_name",
+        "values": [
+          "Wagner"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "31984661000"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "wagner@grupocdi.com.br"
+        ]
+      },
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "11_a_30"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_com_sócio"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "engenharia_e_construção"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "até_50k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "governança_e_controle"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Grupo CDI"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025174895103562",
+    "created_time": "2026-04-24T21:46:42+0000",
+    "ad_id": "120239330854550161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120239330848750161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "ti.garcia@icloud.com",
+    "nome": "Tiago Garcia",
+    "empresa": "Varias",
+    "segmento": "e-commerce",
+    "faturamento": "200_a_500k_mensais",
+    "telefone": "19993197716",
+    "cargo": "proprietário_com_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "crescimento_planejado",
+    "fields": {
+      "full_name": "Tiago Garcia",
+      "work_phone_number": "19993197716",
+      "work_email": "ti.garcia@icloud.com",
+      "quantidade_de_funcionarios": "01_a_10",
+      "cargo": "proprietário_com_sócio",
+      "qual_o_segmento_da_sua_empresa": "e-commerce",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "200_a_500k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
+      "nome_da_empresa": "Varias"
+    },
+    "field_data_raw": [
+      {
+        "name": "full_name",
+        "values": [
+          "Tiago Garcia"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "19993197716"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "ti.garcia@icloud.com"
+        ]
+      },
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_com_sócio"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "e-commerce"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "200_a_500k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "crescimento_planejado"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Varias"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "26829170050047789",
+    "created_time": "2026-04-24T22:07:45+0000",
+    "ad_id": "120239330854550161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120239330848750161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "Financeiro@bonopneus.com.br",
+    "nome": "Dayanne Grus",
+    "empresa": "Bono",
+    "segmento": "serviços_em_geral",
+    "faturamento": "500_a_1_milhão_mensais",
+    "telefone": "+5519998862874",
+    "cargo": "coordenador_/_supervisor_",
+    "quantidade_de_funcionarios": "11_a_30",
+    "desafio_principal": "crescimento_planejado",
+    "fields": {
+      "full_name": "Dayanne Grus",
+      "work_phone_number": "+5519998862874",
+      "work_email": "Financeiro@bonopneus.com.br",
+      "quantidade_de_funcionarios": "11_a_30",
+      "cargo": "coordenador_/_supervisor_",
+      "qual_o_segmento_da_sua_empresa": "serviços_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "500_a_1_milhão_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
+      "nome_da_empresa": "Bono"
+    },
+    "field_data_raw": [
+      {
+        "name": "full_name",
+        "values": [
+          "Dayanne Grus"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "+5519998862874"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "Financeiro@bonopneus.com.br"
+        ]
+      },
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "11_a_30"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "coordenador_/_supervisor_"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "serviços_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "500_a_1_milhão_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "crescimento_planejado"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Bono"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2159318458204461",
+    "created_time": "2026-04-24T23:45:36+0000",
+    "ad_id": "120242373572640161",
+    "ad_name": "[C2] [ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE]",
+    "adset_id": "120242373572630161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE GERENCIAL 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "jujumartins461@gmail.com",
+    "nome": "Jane Martins",
+    "empresa": "Blindagens servicos",
+    "segmento": "atacado_e_distribuição",
+    "faturamento": "500_a_1_milhão_mensais",
+    "telefone": "85989229552",
+    "cargo": "diretor_/_gerente",
+    "quantidade_de_funcionarios": "31_a_50",
+    "desafio_principal": "gestão_financeira",
+    "fields": {
+      "quantidade_de_funcionarios": "31_a_50",
+      "cargo": "diretor_/_gerente",
+      "qual_o_segmento_da_sua_empresa": "atacado_e_distribuição",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "500_a_1_milhão_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "gestão_financeira",
+      "nome_da_empresa": "Blindagens servicos",
+      "full_name": "Jane Martins",
+      "work_phone_number": "85989229552",
+      "work_email": "jujumartins461@gmail.com"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "31_a_50"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "diretor_/_gerente"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "atacado_e_distribuição"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "500_a_1_milhão_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "gestão_financeira"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Blindagens servicos"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Jane Martins"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "85989229552"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "jujumartins461@gmail.com"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1667713857601782",
+    "created_time": "2026-04-25T00:03:15+0000",
+    "ad_id": "120239330854550161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120239330848750161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "k2sp.b2c@gmail.com",
+    "nome": "Dirceu Bezerra",
+    "empresa": "k2sp. transformacao plastica ltda",
+    "segmento": "e-commerce",
+    "faturamento": "2_a_5_milhões_mensais",
+    "telefone": "+5511948010515",
+    "cargo": "proprietário_sem_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "crescimento_planejado",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "work_email": "k2sp.b2c@gmail.com",
+      "full_name": "Dirceu Bezerra",
+      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
+      "work_phone_number": "+5511948010515",
+      "qual_o_segmento_da_sua_empresa": "e-commerce",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "2_a_5_milhões_mensais",
+      "cargo": "proprietário_sem_sócio",
+      "nome_da_empresa": "k2sp. transformacao plastica ltda"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "k2sp.b2c@gmail.com"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Dirceu Bezerra"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "crescimento_planejado"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "+5511948010515"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "e-commerce"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "2_a_5_milhões_mensais"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_sem_sócio"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "k2sp. transformacao plastica ltda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "944108805261968",
+    "created_time": "2026-04-25T00:24:26+0000",
+    "ad_id": "120233691596930161",
+    "ad_name": "[ESTATICO] [FEED] [DRE, DASH E CONSULTORIA]  [WHITE]",
+    "adset_id": "120233340701940161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE ESTATICO WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "claudia.olim@hotmail.com",
+    "nome": "Cláudia Moraes",
+    "empresa": "Minha",
+    "segmento": "logística",
+    "faturamento": "até_50k_mensais",
+    "telefone": "15996580769",
+    "cargo": "diretor_/_gerente",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "gestão_financeira",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "cargo": "diretor_/_gerente",
+      "qual_o_segmento_da_sua_empresa": "logística",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "gestão_financeira",
+      "nome_da_empresa": "Minha",
+      "full_name": "Cláudia Moraes",
+      "work_phone_number": "15996580769",
+      "work_email": "claudia.olim@hotmail.com"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "diretor_/_gerente"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "logística"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "até_50k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "gestão_financeira"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Minha"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Cláudia Moraes"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "15996580769"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "claudia.olim@hotmail.com"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1533813671654670",
+    "created_time": "2026-04-25T02:59:41+0000",
+    "ad_id": "120239330854550161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120239330848750161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "quintaniliamichel@gmail.com",
+    "nome": "Michel",
+    "empresa": "eleglam",
+    "segmento": "e-commerce",
+    "faturamento": "até_50k_mensais",
+    "telefone": "+5511943390466",
+    "cargo": "proprietário_sem_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "aumento_de_produtividade",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "work_email": "quintaniliamichel@gmail.com",
+      "full_name": "Michel",
+      "quail_o_principal_desafio_da_sua_empresa": "aumento_de_produtividade",
+      "work_phone_number": "+5511943390466",
+      "qual_o_segmento_da_sua_empresa": "e-commerce",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
+      "cargo": "proprietário_sem_sócio",
+      "nome_da_empresa": "eleglam"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "quintaniliamichel@gmail.com"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Michel"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "aumento_de_produtividade"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "+5511943390466"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "e-commerce"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "até_50k_mensais"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_sem_sócio"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "eleglam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2157795088402207",
+    "created_time": "2026-04-25T03:14:27+0000",
+    "ad_id": "120233691596930161",
+    "ad_name": "[ESTATICO] [FEED] [DRE, DASH E CONSULTORIA]  [WHITE]",
+    "adset_id": "120233340701940161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE ESTATICO WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "y@hmail.com",
+    "nome": "Ygor",
+    "empresa": "Quero um sistema pra poder integrar, ganhos perdas custo e padronizar entradas e saídas",
+    "segmento": "comércio_em_geral",
+    "faturamento": "100_a_200k_mensais",
+    "telefone": "11989811807",
+    "cargo": "proprietário_sem_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "padronização_de_processos",
+    "fields": {
+      "full_name": "Ygor",
+      "work_phone_number": "11989811807",
+      "work_email": "y@hmail.com",
+      "quantidade_de_funcionarios": "01_a_10",
+      "cargo": "proprietário_sem_sócio",
+      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "100_a_200k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "padronização_de_processos",
+      "nome_da_empresa": "Quero um sistema pra poder integrar, ganhos perdas custo e padronizar entradas e saídas"
+    },
+    "field_data_raw": [
+      {
+        "name": "full_name",
+        "values": [
+          "Ygor"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "11989811807"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "y@hmail.com"
+        ]
+      },
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_sem_sócio"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "comércio_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "100_a_200k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "padronização_de_processos"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Quero um sistema pra poder integrar, ganhos perdas custo e padronizar entradas e saídas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "35681587228121597",
+    "created_time": "2026-04-25T04:00:27+0000",
+    "ad_id": "120244918020030161",
+    "ad_name": "[ESCALA] [ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE] [VERSAO 2]",
+    "adset_id": "120244918020040161",
+    "adset_name": "[ESCALA] [LKL + INTERESSES] [DRE GERENCIAL 2026] [WHITE] [VERSAO 2]",
+    "campaign_id": "120244633259470161",
+    "campaign_name": "[ESCALA BRASIL] [APENAS FB] [CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "decio@hmnews.com.br",
+    "nome": "Décio Norberto Gomes",
+    "empresa": "flaggen",
+    "segmento": "restaurantes",
+    "faturamento": "200_a_500k_mensais",
+    "telefone": "+5511999006162",
+    "cargo": "diretor_/_gerente",
+    "quantidade_de_funcionarios": "11_a_30",
+    "desafio_principal": "gestão_financeira",
+    "fields": {
+      "quantidade_de_funcionarios": "11_a_30",
+      "work_email": "decio@hmnews.com.br",
+      "full_name": "Décio Norberto Gomes",
+      "quail_o_principal_desafio_da_sua_empresa": "gestão_financeira",
+      "work_phone_number": "+5511999006162",
+      "qual_o_segmento_da_sua_empresa": "restaurantes",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "200_a_500k_mensais",
+      "cargo": "diretor_/_gerente",
+      "nome_da_empresa": "flaggen"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "11_a_30"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "decio@hmnews.com.br"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Décio Norberto Gomes"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "gestão_financeira"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "+5511999006162"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "restaurantes"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "200_a_500k_mensais"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "diretor_/_gerente"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "flaggen"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "943160388598817",
+    "created_time": "2026-04-25T04:15:40+0000",
+    "ad_id": "120239330854550161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120239330848750161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "adororevelar@gmail.com",
+    "nome": "Rogerio Cortez",
+    "empresa": "adoro revelar",
+    "segmento": "comércio_em_geral",
+    "faturamento": "até_50k_mensais",
+    "telefone": "+5511966084588",
+    "cargo": "proprietário_sem_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "crescimento_planejado",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "work_email": "adororevelar@gmail.com",
+      "full_name": "Rogerio Cortez",
+      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
+      "work_phone_number": "+5511966084588",
+      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
+      "cargo": "proprietário_sem_sócio",
+      "nome_da_empresa": "adoro revelar"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "adororevelar@gmail.com"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Rogerio Cortez"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "crescimento_planejado"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "+5511966084588"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "comércio_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "até_50k_mensais"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_sem_sócio"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "adoro revelar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1463952138076163",
+    "created_time": "2026-04-25T06:18:11+0000",
+    "ad_id": "120239331362220161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE]",
+    "adset_id": "120239331362230161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE GERENCIAL 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "nanimarket2023@gmail.com",
+    "nome": "Claudio Leite",
+    "empresa": "C R leite Mini Market",
+    "segmento": "supermercado",
+    "faturamento": "100_a_200k_mensais",
+    "telefone": "+5511995669233",
+    "cargo": "proprietário_sem_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "padronização_de_processos",
+    "fields": {
+      "nome_da_empresa": "C R leite Mini Market",
+      "cargo": "proprietário_sem_sócio",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "100_a_200k_mensais",
+      "work_phone_number": "+5511995669233",
+      "quail_o_principal_desafio_da_sua_empresa": "padronização_de_processos",
+      "full_name": "Claudio Leite",
+      "quantidade_de_funcionarios": "01_a_10",
+      "qual_o_segmento_da_sua_empresa": "supermercado",
+      "work_email": "nanimarket2023@gmail.com"
+    },
+    "field_data_raw": [
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "C R leite Mini Market"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_sem_sócio"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "100_a_200k_mensais"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "+5511995669233"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "padronização_de_processos"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Claudio Leite"
+        ]
+      },
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "supermercado"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "nanimarket2023@gmail.com"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2039490026969588",
+    "created_time": "2026-04-25T06:46:40+0000",
+    "ad_id": "120239331362220161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE]",
+    "adset_id": "120239331362230161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE GERENCIAL 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "danielclaudinonissan@gmail.com",
+    "nome": "Daniel Claudino",
+    "empresa": "TRANSLX",
+    "segmento": "atacado_e_distribuição",
+    "faturamento": "até_50k_mensais",
+    "telefone": "+5563991352668",
+    "cargo": "diretor_/_gerente",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "aumento_de_produtividade",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "work_email": "danielclaudinonissan@gmail.com",
+      "full_name": "Daniel Claudino",
+      "quail_o_principal_desafio_da_sua_empresa": "aumento_de_produtividade",
+      "work_phone_number": "+5563991352668",
+      "qual_o_segmento_da_sua_empresa": "atacado_e_distribuição",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
+      "cargo": "diretor_/_gerente",
+      "nome_da_empresa": "TRANSLX"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "danielclaudinonissan@gmail.com"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Daniel Claudino"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "aumento_de_produtividade"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "+5563991352668"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "atacado_e_distribuição"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "até_50k_mensais"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "diretor_/_gerente"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "TRANSLX"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1584977122797292",
+    "created_time": "2026-04-25T08:35:27+0000",
+    "ad_id": "120244316895410161",
+    "ad_name": "[ESCALA] [ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE]",
+    "adset_id": "120244316895420161",
+    "adset_name": "[ESCALA] [LKL + INTERESSES] [DRE GERENCIAL 2026] [WHITE]",
+    "campaign_id": "120244316895400161",
+    "campaign_name": "[ESCALA BRASIL] [CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "arturmeloap@gmail.com",
+    "nome": "Artur Melo",
+    "empresa": "Martín supermercados",
+    "segmento": "comércio_em_geral",
+    "faturamento": "50_a_100k_mensais",
+    "telefone": "8296339363",
+    "cargo": "proprietário_sem_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "crescimento_planejado",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "cargo": "proprietário_sem_sócio",
+      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "50_a_100k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
+      "nome_da_empresa": "Martín supermercados",
+      "full_name": "Artur Melo",
+      "work_phone_number": "8296339363",
+      "work_email": "arturmeloap@gmail.com"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_sem_sócio"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "comércio_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "50_a_100k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "crescimento_planejado"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Martín supermercados"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Artur Melo"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "8296339363"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "arturmeloap@gmail.com"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "972093235370205",
+    "created_time": "2026-04-25T13:47:25+0000",
+    "ad_id": "120244317613750161",
+    "ad_name": "[ESCALA] [ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120244317613740161",
+    "adset_name": "[ESCALA] [LKL + INTERESSES] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120244316895400161",
+    "campaign_name": "[ESCALA BRASIL] [CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "claudelicosta@gmail.com",
+    "nome": "Claudeli Santos",
+    "empresa": "Vgfarma",
+    "segmento": "saúde_e_estética",
+    "faturamento": "50_a_100k_mensais",
+    "telefone": "65992076221",
+    "cargo": "proprietário_sem_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "gestão_de_pessoas",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "cargo": "proprietário_sem_sócio",
+      "qual_o_segmento_da_sua_empresa": "saúde_e_estética",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "50_a_100k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "gestão_de_pessoas",
+      "nome_da_empresa": "Vgfarma",
+      "full_name": "Claudeli Santos",
+      "work_phone_number": "65992076221",
+      "work_email": "claudelicosta@gmail.com"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_sem_sócio"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "saúde_e_estética"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "50_a_100k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "gestão_de_pessoas"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Vgfarma"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Claudeli Santos"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "65992076221"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "claudelicosta@gmail.com"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4094915843972464",
+    "created_time": "2026-04-25T15:04:23+0000",
+    "ad_id": "120244317613750161",
+    "ad_name": "[ESCALA] [ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120244317613740161",
+    "adset_name": "[ESCALA] [LKL + INTERESSES] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120244316895400161",
+    "campaign_name": "[ESCALA BRASIL] [CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "adricarodrigues@gmail.com",
+    "nome": "Adriana Campos Rodrigues",
+    "empresa": "Franquia",
+    "segmento": "comércio_em_geral",
+    "faturamento": "até_50k_mensais",
+    "telefone": "21981466217",
+    "cargo": "diretor_/_gerente",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "governança_e_controle",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "cargo": "diretor_/_gerente",
+      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "governança_e_controle",
+      "nome_da_empresa": "Franquia",
+      "full_name": "Adriana Campos Rodrigues",
+      "work_phone_number": "21981466217",
+      "work_email": "adricarodrigues@gmail.com"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "diretor_/_gerente"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "comércio_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "até_50k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "governança_e_controle"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Franquia"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Adriana Campos Rodrigues"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "21981466217"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "adricarodrigues@gmail.com"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1637363267568435",
+    "created_time": "2026-04-25T17:30:49+0000",
+    "ad_id": "120233691682430161",
+    "ad_name": "[ESTATICO] [FEED] [DRE, DASH E CONSULTORIA]  [BLACK]",
+    "adset_id": "120233379948830161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE ESTATICO BLACK]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "Bigbig.conrado@gmail.com",
+    "nome": "Conrado",
+    "empresa": "Central big",
+    "segmento": "supermercado",
+    "faturamento": "5_a_10_milhões_mensais",
+    "telefone": "28998865384",
+    "cargo": "diretor_/_gerente",
+    "quantidade_de_funcionarios": "1_a_3_",
+    "desafio_principal": "outros",
+    "fields": {
+      "full_name": "Conrado",
+      "work_phone_number": "28998865384",
+      "work_email": "Bigbig.conrado@gmail.com",
+      "quantidade_de_funcionarios": "1_a_3_",
+      "cargo": "diretor_/_gerente",
+      "qual_o_segmento_da_sua_empresa": "supermercado",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "5_a_10_milhões_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "outros",
+      "nome_da_empresa": "Central big"
+    },
+    "field_data_raw": [
+      {
+        "name": "full_name",
+        "values": [
+          "Conrado"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "28998865384"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "Bigbig.conrado@gmail.com"
+        ]
+      },
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "1_a_3_"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "diretor_/_gerente"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "supermercado"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "5_a_10_milhões_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "outros"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Central big"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1505892757648619",
+    "created_time": "2026-04-25T18:21:22+0000",
+    "ad_id": "120239330854550161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE COMPLETO 2026] [WHITE]",
+    "adset_id": "120239330848750161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE COMPLETO 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "rfbueno102@gmail.com",
+    "nome": "Robson Bueno",
+    "empresa": "Consultor Externo",
+    "segmento": "comércio_em_geral",
+    "faturamento": "500_a_1_milhão_mensais",
+    "telefone": "+5515981142116",
+    "cargo": "_ceo_/_dono(a)_/_sócio(a)",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "crescimento_planejado",
+    "fields": {
+      "quantidade_de_funcionarios": "01_a_10",
+      "work_email": "rfbueno102@gmail.com",
+      "full_name": "Robson Bueno",
+      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
+      "work_phone_number": "+5515981142116",
+      "qual_o_segmento_da_sua_empresa": "comércio_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "500_a_1_milhão_mensais",
+      "cargo": "_ceo_/_dono(a)_/_sócio(a)",
+      "nome_da_empresa": "Consultor Externo"
+    },
+    "field_data_raw": [
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "rfbueno102@gmail.com"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "Robson Bueno"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "crescimento_planejado"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "+5515981142116"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "comércio_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "500_a_1_milhão_mensais"
+        ]
+      },
+      {
+        "name": "cargo",
+        "values": [
+          "_ceo_/_dono(a)_/_sócio(a)"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "Consultor Externo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "839102005265689",
+    "created_time": "2026-04-25T18:47:33+0000",
+    "ad_id": "120239331362220161",
+    "ad_name": "[ESTÁTICO] [FEED/STORIES] [DRE GERENCIAL 2026] [WHITE]",
+    "adset_id": "120239331362230161",
+    "adset_name": "[ADV ON] [LKL + INTERESSES] [EMPRESÁRIOS + BASE CLT E NATA] [MUNICÍPIOS] [DRE GERENCIAL 2026] [WHITE]",
+    "campaign_id": "120211103107060161",
+    "campaign_name": "[CONVERSÃO] [LEADS] [FORM NATIVO] [DRE]",
+    "form_id": "24445475068486152",
+    "form_name": "[RD] FORM - SEGMENTO - [AGO25]",
+    "platform": "Meta Ads",
+    "is_organic": false,
+    "lead_status": "novo",
+    "email": "jmuraro3@hotmail.com",
+    "nome": "João Vitor Barbosa Muraro",
+    "empresa": "T",
+    "segmento": "serviços_em_geral",
+    "faturamento": "até_50k_mensais",
+    "telefone": "45999418208",
+    "cargo": "proprietário_com_sócio",
+    "quantidade_de_funcionarios": "01_a_10",
+    "desafio_principal": "crescimento_planejado",
+    "fields": {
+      "cargo": "proprietário_com_sócio",
+      "quantidade_de_funcionarios": "01_a_10",
+      "qual_o_segmento_da_sua_empresa": "serviços_em_geral",
+      "qual_o_faturamento_medio_mensal_da_sua_empresa": "até_50k_mensais",
+      "quail_o_principal_desafio_da_sua_empresa": "crescimento_planejado",
+      "nome_da_empresa": "T",
+      "full_name": "João Vitor Barbosa Muraro",
+      "work_phone_number": "45999418208",
+      "work_email": "jmuraro3@hotmail.com"
+    },
+    "field_data_raw": [
+      {
+        "name": "cargo",
+        "values": [
+          "proprietário_com_sócio"
+        ]
+      },
+      {
+        "name": "quantidade_de_funcionários",
+        "values": [
+          "01_a_10"
+        ]
+      },
+      {
+        "name": "qual_o_segmento_da_sua_empresa?",
+        "values": [
+          "serviços_em_geral"
+        ]
+      },
+      {
+        "name": "qual_o_faturamento_médio_mensal_da_sua_empresa?",
+        "values": [
+          "até_50k_mensais"
+        ]
+      },
+      {
+        "name": "quail_o_principal_desafio_da_sua_empresa?",
+        "values": [
+          "crescimento_planejado"
+        ]
+      },
+      {
+        "name": "nome_da_empresa",
+        "values": [
+          "T"
+        ]
+      },
+      {
+        "name": "full_name",
+        "values": [
+          "João Vitor Barbosa Muraro"
+        ]
+      },
+      {
+        "name": "work_phone_number",
+        "values": [
+          "45999418208"
+        ]
+      },
+      {
+        "name": "work_email",
+        "values": [
+          "jmuraro3@hotmail.com"
         ]
       }
     ]

@@ -5,14 +5,69 @@ import { logInfo, logError } from "../lib/logger.mjs";
 const INPUT_FILE = path.resolve("data/enriched-leads.json");
 const OUTPUT_FILE = path.resolve("data/dashboard-data.json");
 
-// ---------------------------------------------------------------------------
-// Configuração de investimento por plataforma
-// Edite aqui quando os valores mudarem — um único lugar para ambos os arquivos
-// ---------------------------------------------------------------------------
-const PLATFORM_CONFIG = {
-  face: { investimento: 8045, brasil: 90 },
-  insta: { investimento: 9335, brasil: 430 },
+const META_TOKEN = process.env.META_ACCESS_TOKEN;
+const META_AD_ACCOUNT_ID = process.env.META_AD_ACCOUNT_ID; // ex: act_2826012297435696
+const META_API_VERSION = process.env.META_API_VERSION || "v22.0";
+
+// Fallback caso a API não esteja configurada
+const PLATFORM_CONFIG_FALLBACK = {
+  face: { investimento: 0, brasil: 90 },
+  insta: { investimento: 0, brasil: 430 },
 };
+
+// ---------------------------------------------------------------------------
+// Busca investimento real da Meta por plataforma (facebook/instagram)
+// Retorna { face: { investimento, brasil }, insta: { investimento, brasil } }
+// ---------------------------------------------------------------------------
+
+async function fetchMetaInvestimento(since, until) {
+  if (!META_TOKEN || !META_AD_ACCOUNT_ID) {
+    await logInfo("META_ACCESS_TOKEN ou META_AD_ACCOUNT_ID não definidos — usando fallback de investimento.");
+    return PLATFORM_CONFIG_FALLBACK;
+  }
+
+  try {
+    const params = new URLSearchParams({
+      fields: "spend",
+      breakdowns: "publisher_platform",
+      access_token: META_TOKEN,
+    });
+
+    if (since && until) {
+      params.set("time_range", JSON.stringify({ since, until }));
+    } else {
+      params.set("date_preset", "maximum");
+    }
+
+    const url = `https://graph.facebook.com/${META_API_VERSION}/${META_AD_ACCOUNT_ID}/insights?${params}`;
+    const response = await fetch(url);
+    const json = await response.json();
+
+    if (!response.ok || json.error) {
+      await logInfo(`Meta insights erro: ${JSON.stringify(json.error)} — usando fallback.`);
+      return PLATFORM_CONFIG_FALLBACK;
+    }
+
+    const result = { ...PLATFORM_CONFIG_FALLBACK };
+
+    for (const row of json.data || []) {
+      const plataforma = (row.publisher_platform || "").toLowerCase();
+      const spend = parseFloat(row.spend || "0");
+
+      if (plataforma === "facebook") {
+        result.face = { ...result.face, investimento: Math.round(spend) };
+      } else if (plataforma === "instagram") {
+        result.insta = { ...result.insta, investimento: Math.round(spend) };
+      }
+    }
+
+    await logInfo(`Investimento Meta — face: R$${result.face.investimento} | insta: R$${result.insta.investimento}`);
+    return result;
+  } catch (error) {
+    await logInfo(`Erro ao buscar Meta insights: ${error.message} — usando fallback.`);
+    return PLATFORM_CONFIG_FALLBACK;
+  }
+}
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -257,7 +312,7 @@ function buildCampaignMap(leads, totalLeadsICP) {
     .sort((a, b) => b.leads - a.leads);
 }
 
-function buildPlatformData(leads, totalVendas) {
+function buildPlatformData(leads, totalVendas, PLATFORM_CONFIG) {
   const map = new Map();
 
   for (const lead of leads) {
@@ -319,6 +374,19 @@ async function main() {
     const raw = await fs.readFile(INPUT_FILE, "utf-8");
     const leads = JSON.parse(raw);
 
+    // Determina o intervalo de datas dos leads para buscar investimento correto
+    const dates = leads
+      .map((l) => l.created_time || l.created_at)
+      .filter(Boolean)
+      .map((d) => d.slice(0, 10))
+      .sort();
+    const since = dates[0] || null;
+    const until = dates[dates.length - 1] || null;
+
+    await logInfo(`Período dos leads: ${since} → ${until}`);
+    await logInfo("Buscando investimento real da Meta...");
+    const PLATFORM_CONFIG = await fetchMetaInvestimento(since, until);
+
     // Processa flags de funil em cada lead
     const processedLeads = leads.map((lead) => {
       const is_icp = isICP(lead);
@@ -369,7 +437,7 @@ async function main() {
     );
 
     const campaignPerformance = buildCampaignMap(processedLeads, totals.leadsICP);
-    const platformData = buildPlatformData(processedLeads, totals.vendas);
+    const platformData = buildPlatformData(processedLeads, totals.vendas, PLATFORM_CONFIG);
 
     // Diagnóstico de plataformas
     const platformCounts = processedLeads.reduce((acc, l) => {
