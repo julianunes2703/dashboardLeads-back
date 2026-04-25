@@ -1,3 +1,9 @@
 node_modules
 .env
 data/rd-token.json
+data/raw-leads.json
+data/normalized-leads.json
+data/enriched-leads.json
+data/dashboard-data.json
+data/rd-token.json
+logs/
