@@ -2,7 +2,7 @@ name: Daily Marketing Pipeline
 
 on:
   schedule:
-    - cron: "0 9 * * *" # todo dia 09:00 UTC = 06:00 Brasil
+    - cron: "0 10 * * *" # todo dia 10:00 UTC = 07:00 Brasil
   workflow_dispatch:
 
 permissions:
@@ -24,25 +24,119 @@ jobs:
       - name: Instalar dependências
         run: npm ci
 
+      - name: Preparar diretórios
+        run: mkdir -p data logs
+
       - name: Criar token RD inicial
         run: |
-          mkdir -p data
-          cat <<EOF > data/rd-token.json
+          if [ ! -f data/rd-token.json ]; then
+            cat <<EOF > data/rd-token.json
           {
             "access_token": "",
             "refresh_token": "${{ secrets.RD_REFRESH_TOKEN }}",
             "expires_at": 0
           }
           EOF
-      - name: Debug tokens
-        env:
-            META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
-            META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          fi
+
+      # Lê o page token salvo no repo (renovado automaticamente)
+      # Se não existir ainda, usa o secret como fallback
+      - name: Carregar page token salvo
+        id: load_token
         run: |
-            echo "META_ACCESS_TOKEN length: ${#META_ACCESS_TOKEN}"
-            echo "META_PAGE_TOKEN length: ${#META_PAGE_TOKEN}"
-            echo "META_ACCESS_TOKEN starts with: ${META_ACCESS_TOKEN:0:3}"
-            echo "META_PAGE_TOKEN starts with: ${META_PAGE_TOKEN:0:3}"
+          if [ -f data/meta-page-token.json ]; then
+            TOKEN=$(node -e "const d=JSON.parse(require('fs').readFileSync('data/meta-page-token.json'));console.log(d.access_token||'')")
+            EXPIRES=$(node -e "const d=JSON.parse(require('fs').readFileSync('data/meta-page-token.json'));console.log(d.expires_at||0)")
+            NOW=$(date +%s)
+            # Se expira em menos de 10 dias (864000 segundos), renova
+            DIFF=$((EXPIRES - NOW))
+            if [ "$DIFF" -gt "864000" ] && [ -n "$TOKEN" ]; then
+              echo "page_token=$TOKEN" >> $GITHUB_OUTPUT
+              echo "needs_refresh=false" >> $GITHUB_OUTPUT
+              echo "Token salvo ainda válido por $((DIFF / 86400)) dias"
+            else
+              echo "page_token=${{ secrets.META_PAGE_TOKEN }}" >> $GITHUB_OUTPUT
+              echo "needs_refresh=true" >> $GITHUB_OUTPUT
+              echo "Token precisa ser renovado"
+            fi
+          else
+            echo "page_token=${{ secrets.META_PAGE_TOKEN }}" >> $GITHUB_OUTPUT
+            echo "needs_refresh=true" >> $GITHUB_OUTPUT
+            echo "Nenhum token salvo encontrado, usando secret"
+          fi
+
+      # Renova o long-lived page token e salva no repo
+      - name: Renovar page token Meta
+        if: steps.load_token.outputs.needs_refresh == 'true'
+        id: refresh_token
+        env:
+          META_APP_ID: ${{ secrets.META_APP_ID }}
+          META_APP_SECRET: ${{ secrets.META_APP_SECRET }}
+          META_PAGE_TOKEN: ${{ steps.load_token.outputs.page_token }}
+        run: |
+          node --input-type=module << 'EOF'
+          const appId = process.env.META_APP_ID;
+          const appSecret = process.env.META_APP_SECRET;
+          const shortToken = process.env.META_PAGE_TOKEN;
+
+          if (!appId || !appSecret || !shortToken) {
+            console.error("Variáveis META_APP_ID, META_APP_SECRET ou META_PAGE_TOKEN não definidas");
+            process.exit(1);
+          }
+
+          // Troca short-lived por long-lived user token
+          const userUrl = `https://graph.facebook.com/v22.0/oauth/access_token?grant_type=fb_exchange_token&client_id=${appId}&client_secret=${appSecret}&fb_exchange_token=${shortToken}`;
+          const userRes = await fetch(userUrl);
+          const userData = await userRes.json();
+
+          if (userData.error) {
+            console.error("Erro ao renovar user token:", JSON.stringify(userData.error));
+            process.exit(1);
+          }
+
+          const longLivedUserToken = userData.access_token;
+          const expiresIn = userData.expires_in || 5184000; // 60 dias
+          const expiresAt = Math.floor(Date.now() / 1000) + expiresIn;
+
+          // Busca o page token de longa duração usando o user token
+          const pageId = process.env.META_PAGE_ID || '';
+          let finalToken = longLivedUserToken;
+          let finalExpiresAt = expiresAt;
+
+          if (pageId) {
+            const pageUrl = `https://graph.facebook.com/v22.0/${pageId}?fields=access_token&access_token=${longLivedUserToken}`;
+            const pageRes = await fetch(pageUrl);
+            const pageData = await pageRes.json();
+
+            if (pageData.access_token) {
+              finalToken = pageData.access_token;
+              finalExpiresAt = Math.floor(Date.now() / 1000) + 5184000; // page tokens duram 60 dias
+              console.log("Page token de longa duração obtido com sucesso");
+            } else {
+              console.log("Usando long-lived user token como fallback");
+            }
+          }
+
+          const fs = await import('fs');
+          fs.writeFileSync('data/meta-page-token.json', JSON.stringify({
+            access_token: finalToken,
+            expires_at: finalExpiresAt,
+            refreshed_at: new Date().toISOString(),
+          }, null, 2));
+
+          console.log(`Token salvo. Expira em ${Math.round((finalExpiresAt - Date.now()/1000) / 86400)} dias`);
+          EOF
+
+      # Carrega o token final (renovado ou salvo)
+      - name: Definir page token final
+        id: final_token
+        run: |
+          if [ -f data/meta-page-token.json ]; then
+            TOKEN=$(node -e "const d=JSON.parse(require('fs').readFileSync('data/meta-page-token.json'));console.log(d.access_token)")
+            echo "value=$TOKEN" >> $GITHUB_OUTPUT
+          else
+            echo "value=${{ steps.load_token.outputs.page_token }}" >> $GITHUB_OUTPUT
+          fi
 
       - name: Rodar pipeline
         env:
@@ -51,12 +145,13 @@ jobs:
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_FORM_ID: ${{ secrets.META_FORM_ID }}
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
-          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
-
+          META_PAGE_TOKEN: ${{ steps.final_token.outputs.value }}
+          META_AD_ACCOUNT_ID: ${{ secrets.META_AD_ACCOUNT_ID }}
+          META_API_VERSION: v22.0
           RD_CLIENT_ID: ${{ secrets.RD_CLIENT_ID }}
           RD_CLIENT_SECRET: ${{ secrets.RD_CLIENT_SECRET }}
           RD_REFRESH_TOKEN: ${{ secrets.RD_REFRESH_TOKEN }}
-        run: npm run pipeline
+        run: node ./scripts/run-pipeline.mjs
 
       - name: Copiar JSON para o front
         run: |
@@ -67,6 +162,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "actions@github.com"
-          git add data/*.json public/dashboard-data.json logs/pipeline.log
-          git diff --cached --quiet || git commit -m "update: dashboard data"
+          git add data/dashboard-data.json
+          git add data/meta-page-token.json || true
+          git add public/dashboard-data.json
+          git add logs/pipeline.log || true
+          git diff --cached --quiet || git commit -m "update: dashboard data $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
