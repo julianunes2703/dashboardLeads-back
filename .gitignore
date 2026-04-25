@@ -6,4 +6,4 @@ data/normalized-leads.json
 data/enriched-leads.json
 data/dashboard-data.json
 data/rd-token.json
-logs/
+logs/.env
