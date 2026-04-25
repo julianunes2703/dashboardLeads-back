@@ -1,0 +1,126 @@
+[2026-04-25T21:38:33.307Z] [INFO] === PIPELINE START 2026-04-25T21:38:33.307Z ===
+[2026-04-25T21:38:33.309Z] [INFO] Renovando token do RD...
+[2026-04-25T21:38:33.570Z] [INFO] Token do RD renovado com sucesso.
+[2026-04-25T21:38:33.570Z] [INFO] Iniciando etapa: Buscar leads Meta
+[2026-04-25T21:38:33.593Z] [INFO] Buscando formulários da Meta...
+[2026-04-25T21:38:34.639Z] [INFO] Formulários encontrados: 34
+[2026-04-25T21:38:34.640Z] [INFO] Buscando leads do formulário: [RD] FORM - ESTOQUE ESTRATEGICO - [MAR26]
+[2026-04-25T21:38:35.255Z] [INFO] Buscando leads do formulário: [RD] FORM - VARIADOS [JAN 26]
+[2026-04-25T21:38:35.793Z] [INFO] Buscando leads do formulário: [RD] FORM - COMUNICAÇÕES VARIADAS [JAN 26]
+[2026-04-25T21:38:36.111Z] [INFO] Buscando leads do formulário: [RD] FORM - TRIBUTÁRIO
+[2026-04-25T21:38:36.323Z] [INFO] Buscando leads do formulário: [BLUEMKT][RD] [11.25] FORM - Lead Marketing
+[2026-04-25T21:38:36.965Z] [INFO] Buscando leads do formulário: [BLUEMKT][RD] FORM - Lead Marketing
+[2026-04-25T21:38:37.194Z] [INFO] Buscando leads do formulário: [RD] FORM DRE 10 DIAS
+[2026-04-25T21:38:37.733Z] [INFO] Buscando leads do formulário: [RD] FORM - IA WPP - [OUT 25]
+[2026-04-25T21:38:37.948Z] [INFO] Buscando leads do formulário: [RD] FORM - SEGMENTO - [AGO25]
+[2026-04-25T21:38:45.679Z] [INFO] Buscando leads do formulário: FORM - SEGMENTO - [AGO25]
+[2026-04-25T21:38:45.907Z] [INFO] Buscando leads do formulário: Formulário RH JUL2025-copy
+[2026-04-25T21:38:46.145Z] [INFO] Buscando leads do formulário: Formulário RH JUL2025
+[2026-04-25T21:38:46.365Z] [INFO] Buscando leads do formulário: Formulário Gestão-Personalizada (10-03-2025)
+[2026-04-25T21:38:46.594Z] [INFO] Buscando leads do formulário: Formulário Software (10-03-2025)
+[2026-04-25T21:38:46.882Z] [INFO] Buscando leads do formulário: Formulário DRE+Software (10-03-2025)
+[2026-04-25T21:38:47.088Z] [INFO] Buscando leads do formulário: Formulário Dashboard+DRE+Software (10-03-2025)
+[2026-04-25T21:38:47.337Z] [INFO] Buscando leads do formulário: Formulário Consultoria Empresarial (03-02-2025-maior-intenção-obrigatório)
+[2026-04-25T21:38:47.570Z] [INFO] Buscando leads do formulário: Formulário Consultoria Empresarial 29-01-2025-Mais-Intenção
+[2026-04-25T21:38:47.809Z] [INFO] Buscando leads do formulário: Formulário DRE 15/10/24-MAIOR INTENÇÃO
+[2026-04-25T21:38:48.055Z] [INFO] Buscando leads do formulário: Formulário DRE 14/10/24 - MAIOR INTENÇÃO
+[2026-04-25T21:38:48.283Z] [INFO] Buscando leads do formulário: Formulário Venda Mais 01/07/24
+[2026-04-25T21:38:48.507Z] [INFO] Buscando leads do formulário: Formulário Consultoria Empresarial 29/04/24
+[2026-04-25T21:38:48.715Z] [INFO] Buscando leads do formulário: Formulário ERP 29/04/24
+[2026-04-25T21:38:48.976Z] [INFO] Buscando leads do formulário: Formulário DRE 29/04/24
+[2026-04-25T21:38:49.201Z] [INFO] Buscando leads do formulário: Formulário #01 - Advogados
+[2026-04-25T21:38:49.501Z] [INFO] Buscando leads do formulário: Formulário #01 - Padrão - Mais Volume - 6 perguntas-converted
+[2026-04-25T21:38:49.723Z] [INFO] Buscando leads do formulário: Formulário #01 - Padrão - Mais Volume - 6 perguntas
+[2026-04-25T21:38:50.292Z] [INFO] Buscando leads do formulário: Formulário BPO #1 - Maior Intenção - 7 perguntas
+[2026-04-25T21:38:50.546Z] [INFO] Buscando leads do formulário: Forms BPO - [ABRIL23]
+[2026-04-25T21:38:50.803Z] [INFO] Buscando leads do formulário: Forms Atualizado - [MARÇO23]
+[2026-04-25T21:38:51.049Z] [INFO] Buscando leads do formulário: [MARÇO23] - FORMS ATUALIZADO
+[2026-04-25T21:38:51.265Z] [INFO] Buscando leads do formulário: MARÇO23 - FORMS ATUALIZADO
+[2026-04-25T21:38:51.481Z] [INFO] Buscando leads do formulário: [CAPTURA] [JAN23] - Formulário
+[2026-04-25T21:38:51.825Z] [INFO] Buscando leads do formulário: [OUT22] [F01] Formulário Consultoria
+[2026-04-25T21:38:52.037Z] [INFO] Total leads coletados: 1190
+[2026-04-25T21:38:52.038Z] [INFO] Primeiro: 2026-01-25T21:46:45+0000 | Último: 2026-04-25T18:47:33+0000
+[2026-04-25T21:39:55.981Z] [INFO] Leads brutos: /home/runner/work/dashboardLeads-back/dashboardLeads-back/data/raw-leads.json (1190)
+[2026-04-25T21:39:55.981Z] [INFO] Leads normalizados: /home/runner/work/dashboardLeads-back/dashboardLeads-back/data/normalized-leads.json (1190)
+[2026-04-25T21:39:55.981Z] [INFO] Leads com ad_name preenchido: 1185 / 1190
+[2026-04-25T21:39:55.988Z] [INFO] [Buscar leads Meta] stdout:
+[2026-04-25T21:38:33.593Z] [INFO] Buscando formulários da Meta...
+[2026-04-25T21:38:34.639Z] [INFO] Formulários encontrados: 34
+[2026-04-25T21:38:34.640Z] [INFO] Buscando leads do formulário: [RD] FORM - ESTOQUE ESTRATEGICO - [MAR26]
+[2026-04-25T21:38:35.255Z] [INFO] Buscando leads do formulário: [RD] FORM - VARIADOS [JAN 26]
+[2026-04-25T21:38:35.793Z] [INFO] Buscando leads do formulário: [RD] FORM - COMUNICAÇÕES VARIADAS [JAN 26]
+[2026-04-25T21:38:36.111Z] [INFO] Buscando leads do formulário: [RD] FORM - TRIBUTÁRIO
+[2026-04-25T21:38:36.323Z] [INFO] Buscando leads do formulário: [BLUEMKT][RD] [11.25] FORM - Lead Marketing
+[2026-04-25T21:38:36.965Z] [INFO] Buscando leads do formulário: [BLUEMKT][RD] FORM - Lead Marketing
+[2026-04-25T21:38:37.194Z] [INFO] Buscando leads do formulário: [RD] FORM DRE 10 DIAS
+[2026-04-25T21:38:37.733Z] [INFO] Buscando leads do formulário: [RD] FORM - IA WPP - [OUT 25]
+[2026-04-25T21:38:37.948Z] [INFO] Buscando leads do formulário: [RD] FORM - SEGMENTO - [AGO25]
+[2026-04-25T21:38:45.679Z] [INFO] Buscando leads do formulário: FORM - SEGMENTO - [AGO25]
+[2026-04-25T21:38:45.907Z] [INFO] Buscando leads do formulário: Formulário RH JUL2025-copy
+[2026-04-25T21:38:46.145Z] [INFO] Buscando leads do formulário: Formulário RH JUL2025
+[2026-04-25T21:38:46.365Z] [INFO] Buscando leads do formulário: Formulário Gestão-Personalizada (10-03-2025)
+[2026-04-25T21:38:46.594Z] [INFO] Buscando leads do formulário: Formulário Software (10-03-2025)
+[2026-04-25T21:38:46.882Z] [INFO] Buscando leads do formulário: Formulário DRE+Software (10-03-2025)
+[2026-04-25T21:38:47.088Z] [INFO] Buscando leads do formulário: Formulário Dashboard+DRE+Software (10-03-2025)
+[2026-04-25T21:38:47.337Z] [INFO] Buscando leads do formulário: Formulário Consultoria Empresarial (03-02-2025-maior-intenção-obrigatório)
+[2026-04-25T21:38:47.570Z] [INFO] Buscando leads do formulário: Formulário Consultoria Empresarial 29-01-2025-Mais-Intenção
+[2026-04-25T21:38:47.809Z] [INFO] Buscando leads do formulário: Formulário DRE 15/10/24-MAIOR INTENÇÃO
+[2026-04-25T21:38:48.055Z] [INFO] Buscando leads do formulário: Formulário DRE 14/10/24 - MAIOR INTENÇÃO
+[2026-04-25T21:38:48.283Z] [INFO] Buscando leads do formulário: Formulário Venda Mais 01/07/24
+[2026-04-25T21:38:48.507Z] [INFO] Buscando leads do formulário: Formulário Consultoria Empresarial 29/04/24
+[2026-04-25T21:38:48.715Z] [INFO] Buscando leads do formulário: Formulário ERP 29/04/24
+[2026-04-25T21:38:48.976Z] [INFO] Buscando leads do formulário: Formulário DRE 29/04/24
+[2026-04-25T21:38:49.201Z] [INFO] Buscando leads do formulário: Formulário #01 - Advogados
+[2026-04-25T21:38:49.501Z] [INFO] Buscando leads do formulário: Formulário #01 - Padrão - Mais Volume - 6 perguntas-converted
+[2026-04-25T21:38:49.723Z] [INFO] Buscando leads do formulário: Formulário #01 - Padrão - Mais Volume - 6 perguntas
+[2026-04-25T21:38:50.292Z] [INFO] Buscando leads do formulário: Formulário BPO #1 - Maior Intenção - 7 perguntas
+[2026-04-25T21:38:50.546Z] [INFO] Buscando leads do formulário: Forms BPO - [ABRIL23]
+[2026-04-25T21:38:50.803Z] [INFO] Buscando leads do formulário: Forms Atualizado - [MARÇO23]
+[2026-04-25T21:38:51.049Z] [INFO] Buscando leads do formulário: [MARÇO23] - FORMS ATUALIZADO
+[2026-04-25T21:38:51.265Z] [INFO] Buscando leads do formulário: MARÇO23 - FORMS ATUALIZADO
+[2026-04-25T21:38:51.481Z] [INFO] Buscando leads do formulário: [CAPTURA] [JAN23] - Formulário
+[2026-04-25T21:38:51.825Z] [INFO] Buscando leads do formulário: [OUT22] [F01] Formulário Consultoria
+[2026-04-25T21:38:52.037Z] [INFO] Total leads coletados: 1190
+[2026-04-25T21:38:52.038Z] [INFO] Primeiro: 2026-01-25T21:46:45+0000 | Último: 2026-04-25T18:47:33+0000
+[2026-04-25T21:39:55.981Z] [INFO] Leads brutos: /home/runner/work/dashboardLeads-back/dashboardLeads-back/data/raw-leads.json (1190)
+[2026-04-25T21:39:55.981Z] [INFO] Leads normalizados: /home/runner/work/dashboardLeads-back/dashboardLeads-back/data/normalized-leads.json (1190)
+[2026-04-25T21:39:55.981Z] [INFO] Leads com ad_name preenchido: 1185 / 1190
+
+[2026-04-25T21:39:55.988Z] [INFO] Etapa finalizada: Buscar leads Meta (82418 ms)
+[2026-04-25T21:39:55.990Z] [INFO] Iniciando etapa: Enriquecer leads com RD
+[2026-04-25T21:39:56.012Z] [INFO] Lendo leads normalizados...
+[2026-04-25T21:39:56.037Z] [INFO] Lendo base enriquecida anterior...
+[2026-04-25T21:39:56.080Z] [INFO] Total normalizados:          1190
+[2026-04-25T21:39:56.080Z] [INFO] Reaproveitados do cache:      1190
+[2026-04-25T21:39:56.080Z] [INFO] Novos / re-enrich:            0
+[2026-04-25T21:39:56.115Z] [INFO] Arquivo gerado: /home/runner/work/dashboardLeads-back/dashboardLeads-back/data/enriched-leads.json (1190 leads)
+[2026-04-25T21:39:56.116Z] [INFO] Meta: 1185 encontrados | RD: 1188 encontrados
+[2026-04-25T21:39:56.124Z] [INFO] [Enriquecer leads com RD] stdout:
+[2026-04-25T21:39:56.012Z] [INFO] Lendo leads normalizados...
+[2026-04-25T21:39:56.037Z] [INFO] Lendo base enriquecida anterior...
+[2026-04-25T21:39:56.080Z] [INFO] Total normalizados:          1190
+[2026-04-25T21:39:56.080Z] [INFO] Reaproveitados do cache:      1190
+[2026-04-25T21:39:56.080Z] [INFO] Novos / re-enrich:            0
+[2026-04-25T21:39:56.115Z] [INFO] Arquivo gerado: /home/runner/work/dashboardLeads-back/dashboardLeads-back/data/enriched-leads.json (1190 leads)
+[2026-04-25T21:39:56.116Z] [INFO] Meta: 1185 encontrados | RD: 1188 encontrados
+
+[2026-04-25T21:39:56.124Z] [INFO] Etapa finalizada: Enriquecer leads com RD (135 ms)
+[2026-04-25T21:39:56.124Z] [INFO] Iniciando etapa: Gerar dados do dashboard
+[2026-04-25T21:39:56.194Z] [INFO] Período dos leads: 2026-01-25 → 2026-04-25
+[2026-04-25T21:39:56.197Z] [INFO] Buscando investimento real da Meta...
+[2026-04-25T21:39:56.993Z] [INFO] Investimento Meta — face: R$11623 | insta: R$23971
+[2026-04-25T21:39:57.030Z] [INFO] Distribuição de plataformas: {"insta":792,"face":334,"meta":64}
+[2026-04-25T21:39:57.031Z] [INFO] Leads com ad_name preenchido: 1185 / 1190
+[2026-04-25T21:39:57.064Z] [INFO] Dashboard data gerado: /home/runner/work/dashboardLeads-back/dashboardLeads-back/data/dashboard-data.json
+[2026-04-25T21:39:57.064Z] [INFO] Leads: 1190 | ICP: 926 | Reuniões: 141 | Vendas: 16
+[2026-04-25T21:39:57.074Z] [INFO] [Gerar dados do dashboard] stdout:
+[2026-04-25T21:39:56.194Z] [INFO] Período dos leads: 2026-01-25 → 2026-04-25
+[2026-04-25T21:39:56.197Z] [INFO] Buscando investimento real da Meta...
+[2026-04-25T21:39:56.993Z] [INFO] Investimento Meta — face: R$11623 | insta: R$23971
+[2026-04-25T21:39:57.030Z] [INFO] Distribuição de plataformas: {"insta":792,"face":334,"meta":64}
+[2026-04-25T21:39:57.031Z] [INFO] Leads com ad_name preenchido: 1185 / 1190
+[2026-04-25T21:39:57.064Z] [INFO] Dashboard data gerado: /home/runner/work/dashboardLeads-back/dashboardLeads-back/data/dashboard-data.json
+[2026-04-25T21:39:57.064Z] [INFO] Leads: 1190 | ICP: 926 | Reuniões: 141 | Vendas: 16
+
+[2026-04-25T21:39:57.074Z] [INFO] Etapa finalizada: Gerar dados do dashboard (950 ms)
+[2026-04-25T21:39:57.075Z] [INFO] === PIPELINE SUCCESS ===
